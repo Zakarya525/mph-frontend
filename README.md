@@ -6,4 +6,8 @@ A Cross-Platform Mobile app for "Mardan Paira House" a restaurant. Built using R
 npm install --global expo-cli
 npm run android
  ```
+ OR
+ ```
+ npm run ios
+ ```
 
