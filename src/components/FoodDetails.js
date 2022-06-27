@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
     marginStart: 43,
     marginEnd: 30,
     borderRadius: 15,
+    elevation: 8
   }
 })
 

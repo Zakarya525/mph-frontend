@@ -110,7 +110,7 @@ export default function Feeds({ navigation }) {
 const style = StyleSheet.create({
   container: {
     backgroundColor: '#f4f4f4',
-    paddingTop: 10
+    paddingTop: 50
   }
 }
 )
