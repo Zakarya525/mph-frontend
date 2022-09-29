@@ -1,5 +1,5 @@
 # tasteofpeshawar-reactNative
-A Cross-Platform Mobile app for "Mardan Paira House" a restaurant. Built using React Native and the Expo SDK.
+A Cross-Platform Mobile app for "Taste Of Peshawar" a restaurant. Built using React Native and the Expo SDK.
 
 # Prerequisit
 ```
